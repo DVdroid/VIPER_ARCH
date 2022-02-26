@@ -10,6 +10,7 @@ import UIKit
 
 class UserModule {
     
+    //Sequence - VIP-R
     func build() -> UIViewController {
         
         let view = UserListViewController()

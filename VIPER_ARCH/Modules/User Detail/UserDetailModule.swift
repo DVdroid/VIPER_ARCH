@@ -10,6 +10,7 @@ import UIKit
 
 class UserDetailModule {
     
+    //Sequence - VIP-R
     func build() -> UIViewController {
         
         let userDetailView = UserDetailViewController()
